@@ -10,10 +10,10 @@ Headers are easy. Use between one and six pound (#) symbols to create a header. 
 * italics, *italics* or _italics_
 * bold, **bold**
 * bold italics, ***bold italics***
-* underline, __underline__
-* underline italics, __*underline italics*__
-* underline bold, __*underline bold*__
-* underline bold italics, ___***underline bold italics***___
+* underline, __underline__ (Discord Only)
+* underline italics, __*underline italics*__ (Discord Only)
+* underline bold, __*underline bold*__ (Discord Only)
+* underline bold italics, ___***underline bold italics***___ (Discord Only)
 * strikethrough, ~~strikethrough~~
 ### Lists
 Lists are pretty straight-forward. You can simply number your list with 1
